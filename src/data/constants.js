@@ -9,10 +9,9 @@ export const Bio = {
     "A passionate full-stack developer with expertise in building scalable web applications, AI-driven solutions, and interactive user experiences,Bridging the gap between creativity and technology, I specialize in MERN stack development, AI integration, and performance optimization.From AI-powered applications to full-stack web platforms, I create seamless digital experiences that blend functionality with aesthetics.",
   github: "https://github.com/SaiAkshay456",
   resume:
-    "https://drive.google.com/file/d/1y4bATFFvNX4RIuMVk52cURpXvM7wXDHM/view?usp=sharing",
+    "https://drive.google.com/file/d/18bPvcS7IoULwt50FPzpLmuNfDFWgg_AB/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/sai-akshay-3-4b7b54334/",
   insta: "https://www.instagram.com/imakshay50/",
-  leetcode: "https://leetcode.com/u/21bd1a059qcsee/",
   hackkerank: "https://www.hackerrank.com/profile/21bd1a059qcsee",
 };
 
