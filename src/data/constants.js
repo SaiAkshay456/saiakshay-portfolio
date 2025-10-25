@@ -3,7 +3,8 @@ export const Bio = {
   roles: [
     "Full Stack Developer",
     "Programmer",
-    "Enthusiastic About AI"
+    "n8n Developer",
+    "Integrating AI-powered Solutions Into Web/Mobile Apps",
   ],
   description:
     "A passionate full-stack developer with expertise in building scalable web applications, AI-driven solutions, and interactive user experiences,Bridging the gap between creativity and technology, I specialize in MERN stack development, AI integration, and performance optimization.From AI-powered applications to full-stack web platforms, I create seamless digital experiences that blend functionality with aesthetics.",
@@ -164,7 +165,7 @@ export const experiences = [
     img: "https://res.cloudinary.com/dmalwtrro/image/upload/v1761399471/khmlogo_soe3h0.png",
     role: "Full Stack Developer",
     company: "KHM Engineers",
-    date: "July 2023 - Present",
+    date: "July 2025 - Present",
     desc: `• Developed a comprehensive investment analytics platform enabling financial clients to make data-driven portfolio decisions.
     • Built an MVP serving 50+ clients, delivering personalized investment recommendations that improved portfolio insights by 30%.
 • Optimized database processing for 100,000+ stock records, reducing fetch time from 12s → 2.5ms, enabling real-time portfolio analytics.
